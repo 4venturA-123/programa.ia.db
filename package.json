@@ -1,0 +1,16 @@
+{
+  "name": "marianita-ai",
+  "version": "1.0.0",
+  "description": "Asistente de inteligencia artificial para responder preguntas sobre libros en formato PDF.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pdf-parse": "^1.1.1"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
